@@ -1,3 +1,13 @@
 h1 {
-    color:red;
+    color: red;
+    font-family: 'Cinzel', serif;
+    
 }
+h2{
+    color: red;
+    font-family: 'Cinzel', serif;
+}
+
+html {
+    background-image: url(https://assets.awwwards.com/awards/submissions/2020/06/5ef5350f73bf4684588980.jpg);
+
