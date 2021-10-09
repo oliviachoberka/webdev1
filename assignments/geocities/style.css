@@ -25,11 +25,24 @@ footer {
     
 }
 .hurting {
-    
+    position:fixed;
+    top: 400px;
+    left: 100px;
+    right:10px;
 
 }
-
-
+.galactica {
+    position:fixed;
+    top: 100 px;
+    right:100px;
+    left: 700px;
+}
+.fury {
+    position:fixed;
+    top:
+    left:
+    right:10px;
+}
 
 
 
