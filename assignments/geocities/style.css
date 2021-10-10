@@ -25,33 +25,48 @@ footer {
     
 }
 .hurting {
-    position:fixed;
-    top: 400px;
+    position:absolute;
+    top: 900px;
     left: 100px;
     right:10px;
 
 }
 .galactica {
-    position:fixed;
+    position:absolute;
     top: 100 px;
-    right:100px;
-    left: 700px;
+    right:50px;
+    left: 1450px;
 }
 .fury {
-    position:fixed;
-    top:
-    left:
-    right:10px;
+    position:absolute;
+    top: 1300px;
+    right:50px;
+    left: 1450px;
+   
 }
 
+.heart {
+    position:absolute;
+    top: 500px;
+    left: 200px;
+}
+.moon {
+    position: absolute;
+    top: 900px;
+    right: 300px;
+    
 
+}
+.audio {
+    position: absolute;
+    top: 1200px;
+    left: 300px;
 
+}
+.rainbow {
+    
 
-
-
-
-
-
+}
 }
 .exit-absolute {
     position: absolute;
@@ -73,6 +88,11 @@ footer {
     margin-right: auto;
 
 }
-p {
-    color:white;
+p{
+    color:khaki;
+    font-family:'Bebas Neue', cursive;
+    font-size: 300%;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
 }
