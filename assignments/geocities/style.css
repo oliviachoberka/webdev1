@@ -53,20 +53,22 @@ footer {
 .moon {
     position: absolute;
     top: 900px;
-    right: 300px;
+    right: 200px;
     
 
 }
 .audio {
     position: absolute;
     top: 1200px;
-    left: 300px;
+    left: 200px;
 
 }
-.rainbow {
+.orca {
+    position: absolute;
+    top: 1500px;
+    right: 60px;
     
 
-}
 }
 .exit-absolute {
     position: absolute;
@@ -95,4 +97,7 @@ p{
     text-align: center;
     padding-left: 30%;
     padding-right: 30%;
+}
+body {
+    cursor: crosshair;
 }
