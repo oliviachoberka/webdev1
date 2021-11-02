@@ -28,4 +28,3 @@ body {
 @keyframes ball-bounce2{
     from {transform: translate3d(0,100px,0);}
     to{transform: translate3d(0,600px,0);}
-
