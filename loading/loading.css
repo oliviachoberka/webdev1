@@ -1,0 +1,30 @@
+h1 {
+    color:red;
+}
+body{
+    background-color: rgb(123, 93, 235);
+}
+.big-circle{
+    background-color: rgb(2, 0, 139);
+    width: 200px;00px; 
+	height:200px; 
+    margin: 0 auto;
+    border-radius: 50%;
+    transform: s
+    
+}
+.small-circle {
+    background-color: rgb(65, 0, 139);
+    width: 100px;00px; 
+	height:100px; 
+    margin: 0 auto;
+    border-radius: 50%;
+}
+@something {
+    from {
+
+    }
+    to{
+
+    }
+}
